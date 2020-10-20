@@ -5,7 +5,7 @@ $VerbosePreference = "continue"
 $folder = Split-Path -parent $PSCommandPath
 
 #set token HERE 
-$token = "PUT YOUR TOKEN HERE"
+$token = " ba12e4790a3f"
 
 #set header for authorization
 $headers = New-Object "System.Collections.Generic.Dictionary[[String],[String]]"
